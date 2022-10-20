@@ -11,5 +11,3 @@ This is an example repository for QA training
 ## Some links
 [Fire fits](https://www.jdsports.ie/?gclid=Cj0KCQjw48OaBhDWARIsAMd966CdD9h86wW9ikBCAH1pccQXszrMSyV_Fi1rVw5yEOv8obZ-kO58CDUaAkBrEALw_wcB&gclsrc=aw.ds)
 
-| Column 1 | Column 2 | Column 3 |
-| Value 1 | Value 2 | Value 3 |
